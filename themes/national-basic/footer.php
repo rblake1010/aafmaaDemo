@@ -24,6 +24,6 @@
 	</div><!-- #page -->
 
 <?php wp_footer(); ?>
-<!-- This is a test -->
+<!-- This is a test1213 -->
 </body>
 </html>
